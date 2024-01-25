@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+.round-element {
+    background-color: yellow;
+    color: red;
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 50%;
+}
